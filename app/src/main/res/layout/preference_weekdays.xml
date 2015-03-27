@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <CheckBox android:id="@+id/checkbox_luni"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#0099cc"
+        android:text="@string/monday"/>
+    <CheckBox android:id="@+id/checkbox_marti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#0099cc"
+        android:text="@string/tuesday"/>
+    <CheckBox android:id="@+id/checkbox_miercuri"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#0099cc"
+        android:text="@string/wednesday"/>
+    <CheckBox android:id="@+id/checkbox_joi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#0099cc"
+        android:text="@string/thursday"/>
+    <CheckBox android:id="@+id/checkbox_vineri"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#0099cc"
+        android:text="@string/friday"/>
+    <CheckBox android:id="@+id/checkbox_sambata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#0099cc"
+        android:text="@string/saturday"/>
+    <CheckBox android:id="@+id/checkbox_duminica"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#0099cc"
+        android:text="@string/sunday"/>
+</LinearLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weekDays">
+        <item name = "Monday"> Monday </item>
+        <item name = "Tuesday"> Tuesday </item>
+        <item name = "Wednesday"> Wednesday </item>
+        <item name = "Thursday"> Thursday </item>
+        <item name = "Friday"> Friday </item>
+        <item name = "Saturday"> Saturday </item>
+        <item name = "Sunday"> Sunday </item>
+    </string-array>
+    <string-array name="weekDaysValues">
+        <item name = "Monday"> Monday </item>
+        <item name = "Tuesday"> Tuesday </item>
+        <item name = "Wednesday"> Wednesday </item>
+        <item name = "Thursday"> Thursday </item>
+        <item name = "Friday"> Friday </item>
+        <item name = "Saturday"> Saturday </item>
+        <item name = "Sunday"> Sunday </item>
+    </string-array>
+
+</resources>
